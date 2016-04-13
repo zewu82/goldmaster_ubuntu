@@ -1,0 +1,17 @@
+{
+    "name": "goldmaster.zewu",
+    "description": "description of GoldMaster",
+    "architecture": "all",
+    "title": "GoldMaster",
+    "hooks": {
+        "GoldMaster": {
+            "apparmor": "GoldMaster.apparmor",
+            "desktop":  "GoldMaster.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "zewu zhang <zewuxx@qq.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
